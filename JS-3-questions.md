@@ -4,4 +4,4 @@
 * What is hoisting? 
 * What is JavaScript scope, what are the different types of JavaScript scope? 
 * Describe each scope type and provide an example.
-* What is the difference between `let` and `const`?
+* What is the difference between `let` and `const` keywords?
